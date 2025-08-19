@@ -5,7 +5,9 @@
 This challenge covers diverse business scenarios: social media analytics, e-commerce, fraud detection, loyalty programs, product launches, and more.
 
 <p align="right">
+  <a href="https://www.linkedin.com/posts/tonekaboni_github-atonekabonipythonchallenge-python-activity-7363473713289146372-r2NP">
     <img width="10%" src="https://github.com/user-attachments/assets/da66e1b3-5bc9-4ca9-9d17-9ae2ac24f1b1">
+  </a>
 </p>
 
 ## Highlights
@@ -15,6 +17,12 @@ This challenge covers diverse business scenarios: social media analytics, e-comm
 - **Analytics & KPIs**: GroupBy aggregations, CTR calculations, segment analysis
 - **Transformations**: Pivot tables, temperature bins, calculated business metrics (revenue per ride, average order value)
 - **Quality checks**: Outlier detection (IQR), data validation
+
+<p align="right">
+  <a href="https://www.linkedin.com/posts/tonekaboni_github-atonekabonipythonchallenge-python-activity-7363473713289146372-r2NP">
+    <img width="15%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png">
+  </a>
+</p>
 
 ## Day-by-Day
 - Day 1: Group size and engagement on filtered subsets.
