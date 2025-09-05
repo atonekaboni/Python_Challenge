@@ -19,8 +19,8 @@ This challenge covers diverse business scenarios: social media analytics, e-comm
 - **Quality checks**: Outlier detection (IQR), data validation
 
 <p align="right">
-  <a href="https://www.linkedin.com/posts/tonekaboni_github-atonekabonipythonchallenge-python-activity-7363473713289146372-r2NP">
-    <img width="15%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png">
+  <a href="https://github.com/atonekaboni/Toy_Store/blob/main/Python/Toy_Store_Publish.ipynb">
+    <img style="width: 40%; height: auto;" alt="Python_Challenge_Tonekaboni" src="https://github.com/user-attachments/assets/f64d9f69-2b11-4661-b7a9-eeee25f04d5e">
   </a>
 </p>
 
