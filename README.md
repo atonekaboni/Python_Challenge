@@ -20,9 +20,11 @@ This challenge covers diverse business scenarios: social media analytics, e-comm
 
 <p align="right">
   <a href="https://github.com/atonekaboni/Toy_Store/blob/main/Python/Toy_Store_Publish.ipynb">
-    <img style="width: 40%; height: auto;" alt="Python_Challenge_Tonekaboni" src="https://github.com/user-attachments/assets/f64d9f69-2b11-4661-b7a9-eeee25f04d5e">
+    <img style="width: 40%; height: auto;" alt="Python_Challenge_Tonekaboni" src="https://github.com/user-attachments/assets/b680bb3d-cd8a-4592-8841-26c09fe72bed">
   </a>
 </p>
+
+<!-- https://github.com/user-attachments/assets/f64d9f69-2b11-4661-b7a9-eeee25f04d5e -->
 
 ## Day-by-Day
 - Day 1: Group size and engagement on filtered subsets.
